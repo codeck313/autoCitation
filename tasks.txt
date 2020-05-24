@@ -1,2 +1,0 @@
-Add DOI and custom data to a text file
-Ability to mention the output file name in the python script
